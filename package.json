@@ -1,0 +1,1 @@
+{"dependencies":{},"description":"Direct reverse-proxy version: no Cloudflare Tunnel. Clients connect to the platform domain, this server proxies WebSocket traffic to a local Xray on 127.0.0.1:8001.","engines":{"node":">=18"},"main":"server.js","name":"like-direct","scripts":{"start":"node server.js"},"version":"1.0.0"}
